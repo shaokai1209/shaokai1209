@@ -1,4 +1,4 @@
-### My ![Visitor Count](https://profile-counter.glitch.me/shaokai1209/count.svg) Visitor
+### MY ![Visitor Count](https://profile-counter.glitch.me/shaokai1209/count.svg) VISITOR,
 
 ### 👋😄 Hi, I'M SHAOKAI LI 
 
@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaokai1209&show_icons=true&theme=merko)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaokai1209)](https://github.com/anuraghazra/github-readme-stats)
 
 
