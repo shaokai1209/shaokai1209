@@ -1,4 +1,4 @@
-### MY ![Visitor Count](https://profile-counter.glitch.me/shaokai1209/count.svg) VISITOR,
+### MY ![Visitor Count](https://profile-counter.glitch.me/shaokai1209/count.svg)th VISITOR,
 
 ### 👋😄 Hi, I'M SHAOKAI LI 
 
