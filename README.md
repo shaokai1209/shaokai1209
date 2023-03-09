@@ -1,3 +1,5 @@
+My ![Visitor Count](https://profile-counter.glitch.me/shaokai1209/count.svg) Visitor
+
 ### 👋😄 Hi, I'M SHAOKAI LI 
 
 ### ✨ WELCOME TO MY HOMEPAGE! ✨ 
@@ -21,7 +23,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaokai1209)](https://github.com/anuraghazra/github-readme-stats)
 
-![Visitor Count](https://profile-counter.glitch.me/shaokai1209/count.svg)
+
 
 
 
