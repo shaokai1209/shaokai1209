@@ -1,4 +1,4 @@
-### Hi, I'm Shaokai Li, welcome to my hmoepage! 👋
+### ✨Hi, I'M SHAOKAI LI, WELCOME TO MY HOMEPAGE! ✨ 👋
 
 <!--
 **shaokai1209/shaokai1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
