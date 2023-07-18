@@ -4,7 +4,7 @@
 
 ### ✨ WELCOME TO MY HOMEPAGE! ✨ 
 
-### Hope our works can be helpful for you. 🤗
+### Hope our work will be helpful to you. 🤗
 
 <!--
 **shaokai1209/shaokai1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
